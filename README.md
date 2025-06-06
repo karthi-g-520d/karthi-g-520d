@@ -1,9 +1,9 @@
 ## HI 👋 I'm KARTHI 
 
-Aspiring Software Developer
+Trainee Engineer
                                                
-- 🌱 I’m currently learning DSA 
-- 🔍 I'm looking for developer role
+- 🌱 I’m currently learning Azure Functions 
+- 🔍 Woking on React and Python (Fullstack)
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthi-g-520d/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:karthiknight30@gmail.com)
 
